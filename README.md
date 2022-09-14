@@ -21,6 +21,6 @@
 
 ![Dashboard](https://github.com/Chetanjorwal3/WebFormExample-JsonPowerDB/blob/master/Assets/Screenshots/DashBoard.png)
 
-![Index Page](https://github.com/Chetanjorwal3/WebFormExample-JsonPowerDB/blob/master/Assets/Screenshots/index.PNG)
+![Index Page](https://github.com/Chetanjorwal3/WebFormExample-JsonPowerDB/blob/master/Assets/Screenshots/index.png)
 
-![Visualize](https://github.com/Chetanjorwal3/WebFormExample-JsonPowerDB/blob/master/Assets/Screenshots/server.PNG)
+![Visualize](https://github.com/Chetanjorwal3/WebFormExample-JsonPowerDB/blob/master/Assets/Screenshots/server.png)
