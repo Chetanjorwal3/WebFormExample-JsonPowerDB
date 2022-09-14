@@ -1,4 +1,4 @@
-# WebFormWxample-JsonPowerDB 
+# WebFormExample-JsonPowerDB 
 ### You can fork it. But before that, please give a star (It's totally free).
 
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
@@ -19,8 +19,8 @@
 
 ### Screenshots:
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
+![Dashboard](https://github.com/Chetanjorwal3/WebFormExample-JsonPowerDB/blob/master/Assets/Screenshots/DashBoard.png)
 
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+![Index Page](https://github.com/Chetanjorwal3/WebFormExample-JsonPowerDB/blob/master/Assets/Screenshots/index.PNG)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
+![Visualize](https://github.com/Chetanjorwal3/WebFormExample-JsonPowerDB/blob/master/Assets/Screenshots/server.PNG)
